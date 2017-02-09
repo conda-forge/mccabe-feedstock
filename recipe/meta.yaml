@@ -32,7 +32,10 @@ test:
 about:
   home: https://github.com/PyCQA/mccabe
   license: MIT
+  license_family: MIT
+  license_file: LICENSE
   summary: 'McCabe complexity checker for Python'
+  dev_url: https://github.com/PyCQA/mccabe
 
 extra:
   recipe-maintainers:
